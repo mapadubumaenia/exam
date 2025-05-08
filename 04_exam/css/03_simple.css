@@ -1,0 +1,31 @@
+#page{width: 99vw; margin: 0 auto;}
+
+nav{width: 90%; margin: 0 auto;}
+
+.brand{text-align: center; padding: 1.5rem; float: left; padding-left: 5rem;}
+
+.fab img{width: 2rem; }
+
+.fab{position:absolute; left: 15px; top: 25px; display: none;}
+
+.menu li{width: 50%;
+    border: 1px solid lightgray;  float: right; width: auto; border: none;}
+
+.menu li a{height: 6rem; display: flex; 
+    justify-content: center; align-items: center; padding: 1rem 0.6rem 1rem 0.6rem;}
+
+.menu{margin: 0 15px 0 15px;}
+
+.menu li a:hover{background-color: #1E90FF; color: white;}
+
+.menu2 {
+    display: flex;
+    justify-content: center;  
+    gap: 4rem;                       
+    padding: 1rem 0;
+    clear: both;
+  }
+.menu2 li{   width: auto;
+    list-style: none;}
+
+
